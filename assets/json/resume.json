@@ -54,11 +54,10 @@
       "date": "2023-12-09",
       "issuer": "NanJing University",
       "url": "https://example.com",
-    },
-  "publications": [
+    }
   ],
-  "skills": [
-  ],
+  "publications": [ ],
+  "skills": [ ],
   "languages": [
     {
       "language": "Chinese",
@@ -79,8 +78,6 @@
       ]
     }
   ],
-  "references": [
-  ],
-  "projects": [
-  ]
+  "references": [ ],
+  "projects": [ ]
 }
